@@ -46,7 +46,7 @@ public class Magpie3
 			response = "Tell me more about your family.";
 		}
 		else if (findKeyword(statement,"cat") >= 0 || findKeyword(statement,"dog") >= 0)		    {
-		    response = "Tell me moar about your pets!";
+		    response = "Tell me more about your pets!";
 		}
 
 			else if (findKeyword(statement,"brown") >= 0)
