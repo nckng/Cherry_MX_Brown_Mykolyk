@@ -11,6 +11,6 @@
 |Name       |Date        | Work                            |
 |:---------:|:----------:|:-------------------------------:|
 | Max       | 4/10/16    | Activity2 Completed             |
-| Shaumik   | 4/10/16    | Activity3 Completed             |
-|           |            |                                 |
+| Shaumik   | 4/10/16    | Worked on Activity3             |
+| Nick      | 4/10/16    | Activity3 Conpleted             |
 |           |            |                                 |
