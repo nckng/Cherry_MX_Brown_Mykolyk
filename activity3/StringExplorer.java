@@ -41,7 +41,7 @@ public class StringExplorer
 		System.out.println ("sample.trim() = " + trimed);
 		System.out.println ("After trim(), sample = " + sample);
 		
-		
+		//We all know what substring does
 	}
 
 }
