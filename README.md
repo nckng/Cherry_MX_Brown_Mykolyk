@@ -14,4 +14,4 @@
 | Shaumik   | 4/10/16    | Worked on Activity3             |
 | Nick      | 4/10/16    | Activity3 Completed             |
 | Shaumik   | 4/10/16    | Worked on Activity4&5           |
-|           |            |                                 |
+| Nick      | 4/10/16    | Worked on Activity4&5           |
