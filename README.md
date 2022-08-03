@@ -1,13 +1,14 @@
 # Cherry_MX_Brown_Mykolyk
 
-####Magpie Lab 
+### Magpie Lab 
+Java Chatbot
 
-####Team Members
+#### Team Members
  - Shaumik Ashraf
  - Max Anderson
  - Nick Ng
 
-####Devlog
+#### Devlog
 |Name       |Date        | Work                            |
 |:---------:|:----------:|:-------------------------------:|
 | Max       | 4/10/16    | Activity2 Completed             |
